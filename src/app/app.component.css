@@ -1,0 +1,12 @@
+span {
+	color: blue;
+	font-size: 50px;
+	align-self: center;
+	margin: 5px auto 5px auto;
+}
+
+div {
+	background-color: wheat;
+	align-items: center;
+	text-align: center;
+}
